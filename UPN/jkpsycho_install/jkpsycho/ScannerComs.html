@@ -1,0 +1,15 @@
+<pre>Requires that you have a ScannerComsConnect component earlier in the experiment.  The Connect component establishes a connection to the scanner coms for the entire experiment, this component handles the messaging within this routine.  Every frame during which this component is active, it'll update its contents to reflect recent messages from the scanner coms.  By default, the variable name with the messages stored in it is 'coms'.  That name will be used in this help for convenience.
+    
+For example, lets say you want to stop the routine if button 2 was pressed.  You'd have your ScannerComs component of course (with default settings).  You could then add a StopRoutine component with the condition set as follows: '2' in coms
+
+For the scanner equipment used for development of this package, buttons 1-6 on the button box correspond to '1' through '6'.  Note that these are str not int (in Python types).  '6' seems to be used for the scanner trigger.  So you could modify the above example with '2' to use '6' instead and you have a routine that waits for the scanner trigger!
+    
+   
+You may modify the 'status' attribute of coms to activate and deactivate the message gathering.  Just like many other PsychoPy components, the status STARTED indicates that messages should be collected and STOPPED indicates that no messages should be collected.  You may change back and forth as often as you like, but note that no messages will be gathered on the very first frame in which you set the status to STARTED (give it time to warm up first!!).
+
+You should only use one ScannerComs component per routine.  Each ScannerComs object takes full control over the scanner coms connection and will clear the messages whenever it wants to.  So having a second one wouldn't work, it would always see no messages.
+
+By default, coms will be derived from a set (in other words, it'll act like a Python set just with added features).  It can be a list if you want (uncheck the "Store as a set?" box), like if the order or counts of the messages matters to you.  If you want to accumulate messages over multiple frames, just make sure the "Clear every frame?" box is unchecked.
+
+As a development convenience, there is an option to mix the scanner messages with keyboard events.  For example, you can press '2' on your keyboard and it'll be as if someone pressed button 2 on the button box.  Great for testing things when not connected to a button box.  Do note that if you are really using both the keyboard and scanner messages, there is no support for keeping the order of events correct.  The scanner messages are processed first, and then the keyboard messages are added on top.
+</pre>

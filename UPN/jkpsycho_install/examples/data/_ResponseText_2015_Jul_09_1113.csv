@@ -1,0 +1,4 @@
+start_on_enter.keys,start_on_enter.rt,submit_on_enter.keys,submit_on_enter.rt,finish_on_enter.keys,finish_on_enter.rt,date,frameRate,expName,session,participant,
+return,3.71770025101,,,,,2015_Jul_09_1113,59.4398324031,ResponseText,001,,
+,,return,2.96716066188,,,2015_Jul_09_1113,59.4398324031,ResponseText,001,,
+,,,,return,0.858049048242,2015_Jul_09_1113,59.4398324031,ResponseText,001,,

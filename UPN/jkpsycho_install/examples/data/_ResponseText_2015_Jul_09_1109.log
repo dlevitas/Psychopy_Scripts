@@ -1,0 +1,57 @@
+2.4159 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x0B1B2468>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.4159 	EXP 	window1: recordFrameIntervals = False
+2.5819 	EXP 	window1: recordFrameIntervals = True
+2.6154 	DATA 	Keypress: b
+2.7155 	DATA 	Keypress: l
+2.7667 	EXP 	window1: recordFrameIntervals = False
+2.8119 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+2.8122 	EXP 	window1: recordFrameIntervals = False
+2.8153 	EXP 	window1: recordFrameIntervals = False
+3.1109 	DATA 	Keypress: a
+3.1112 	DATA 	Keypress: h
+3.1115 	DATA 	Keypress: a
+3.1239 	DATA 	Keypress: s
+3.1636 	DATA 	Keypress: d
+3.2597 	DATA 	Keypress: f
+3.2676 	DATA 	Keypress: l
+3.3488 	DATA 	Keypress: k
+3.4321 	DATA 	Keypress: j
+3.5487 	DATA 	Keypress: w
+3.6154 	DATA 	Keypress: l
+3.6654 	DATA 	Keypress: e
+3.7487 	DATA 	Keypress: j
+3.7653 	DATA 	Keypress: f
+3.9654 	DATA 	Keypress: a
+3.9987 	DATA 	Keypress: s
+4.0488 	DATA 	Keypress: d
+4.1157 	DATA 	Keypress: f
+4.2988 	DATA 	Keypress: return
+4.9321 	DATA 	Keypress: l
+4.9489 	DATA 	Keypress: a
+4.9989 	DATA 	Keypress: s
+5.0322 	DATA 	Keypress: k
+5.0488 	DATA 	Keypress: j
+5.1321 	DATA 	Keypress: d
+5.1487 	DATA 	Keypress: f
+5.2655 	DATA 	Keypress: l
+5.2821 	DATA 	Keypress: k
+5.3321 	DATA 	Keypress: a
+5.3654 	DATA 	Keypress: s
+5.3988 	DATA 	Keypress: d
+5.4488 	DATA 	Keypress: f
+5.6487 	DATA 	Keypress: return
+6.0655 	DATA 	Keypress: l
+6.1322 	DATA 	Keypress: k
+6.1821 	DATA 	Keypress: j
+6.2321 	DATA 	Keypress: a
+6.2654 	DATA 	Keypress: s
+6.3321 	DATA 	Keypress: l
+6.3322 	DATA 	Keypress: d
+6.3654 	DATA 	Keypress: k
+6.4489 	DATA 	Keypress: j
+6.5987 	DATA 	Keypress: a
+6.6489 	DATA 	Keypress: s
+6.6987 	DATA 	Keypress: d
+6.7321 	DATA 	Keypress: f
+6.9155 	DATA 	Keypress: return
+7.1491 	DATA 	Keypress: escape

@@ -1,0 +1,177 @@
+1.8697 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x0B8A3E40>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+1.8697 	EXP 	window1: recordFrameIntervals = False
+2.0322 	EXP 	window1: recordFrameIntervals = True
+2.2179 	EXP 	window1: recordFrameIntervals = False
+2.2738 	EXP 	Created pause_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='pause_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+2.2743 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+2.2773 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+2.3639 	EXP 	window1: recordFrameIntervals = False
+2.3989 	EXP 	pause_text: text = 'Test for the TextResponse component.\n\nWill have two text entries, each one enabled at a different time as indicated on the screen.  Only when active should any text be modified.  Only the second entry is multiple lines.\n\nAll symbols should work, caps lock, shift, backspace, delete...'
+2.3989 	EXP 	pause_text: text = "Test for the TextResponse component.\n\nWill have two text entries, each one enabled at a different time as indicated on the screen.  Only when active should any text be modified.  Only the second entry is multiple lines.\n\nAll symbols should work, caps lock, shift, backspace, delete...\n\npress a key to continue, except:\n'escape'"
+2.3989 	EXP 	pause_text: autoDraw = True
+2.3990 	EXP 	window1: recordFrameIntervals = False
+3.5990 	DATA 	Keypress: return
+3.6322 	EXP 	pause_text: autoDraw = False
+3.6322 	EXP 	text: text = '\n=======================\n**single line**\n\n=======================\nmultiple lines\n\n'
+3.6322 	EXP 	text: autoDraw = True
+3.6322 	EXP 	text_2: autoDraw = True
+4.6512 	DATA 	Keypress: a
+4.6822 	EXP 	text: text = '\n=======================\n**single line**\na\n=======================\nmultiple lines\n\n'
+4.7351 	DATA 	Keypress: s
+4.7621 	DATA 	Keypress: d
+4.7655 	EXP 	text: text = '\n=======================\n**single line**\nas\n=======================\nmultiple lines\n\n'
+4.7822 	EXP 	text: text = '\n=======================\n**single line**\nasd\n=======================\nmultiple lines\n\n'
+4.8013 	DATA 	Keypress: f
+4.8322 	EXP 	text: text = '\n=======================\n**single line**\nasdf\n=======================\nmultiple lines\n\n'
+4.9515 	DATA 	Keypress: j
+4.9822 	EXP 	text: text = '\n=======================\n**single line**\nasdfj\n=======================\nmultiple lines\n\n'
+5.0846 	DATA 	Keypress: k
+5.1121 	DATA 	Keypress: l
+5.1155 	EXP 	text: text = '\n=======================\n**single line**\nasdfjk\n=======================\nmultiple lines\n\n'
+5.1295 	DATA 	Keypress: d
+5.1322 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkl\n=======================\nmultiple lines\n\n'
+5.1489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkld\n=======================\nmultiple lines\n\n'
+5.1852 	DATA 	Keypress: j
+5.2155 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldj\n=======================\nmultiple lines\n\n'
+5.3181 	DATA 	Keypress: l
+5.3489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjl\n=======================\nmultiple lines\n\n'
+5.5512 	DATA 	Keypress: return
+5.6853 	DATA 	Keypress: f
+5.7155 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlf\n=======================\nmultiple lines\n\n'
+5.8526 	DATA 	Keypress: return
+5.9179 	DATA 	Keypress: s
+5.9471 	DATA 	Keypress: d
+5.9489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfs\n=======================\nmultiple lines\n\n'
+5.9655 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsd\n=======================\nmultiple lines\n\n'
+6.0015 	DATA 	Keypress: return
+6.2015 	DATA 	Keypress: s
+6.2300 	DATA 	Keypress: d
+6.2322 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsds\n=======================\nmultiple lines\n\n'
+6.2489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsd\n=======================\nmultiple lines\n\n'
+6.2851 	DATA 	Keypress: f
+6.3155 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdf\n=======================\nmultiple lines\n\n'
+6.3680 	DATA 	Keypress: return
+6.4848 	DATA 	Keypress: s
+6.5149 	DATA 	Keypress: d
+6.5322 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfs\n=======================\nmultiple lines\n\n'
+6.5489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsd\n=======================\nmultiple lines\n\n'
+6.5680 	DATA 	Keypress: f
+6.5989 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdf\n=======================\nmultiple lines\n\n'
+6.7346 	DATA 	Keypress: return
+6.8530 	DATA 	Keypress: return
+7.0183 	DATA 	Keypress: s
+7.0475 	DATA 	Keypress: d
+7.0489 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfs\n=======================\nmultiple lines\n\n'
+7.0640 	DATA 	Keypress: f
+7.0655 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsd\n=======================\nmultiple lines\n\n'
+7.0822 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdf\n=======================\nmultiple lines\n\n'
+7.2346 	DATA 	Keypress: return
+7.3516 	DATA 	Keypress: return
+7.5183 	DATA 	Keypress: s
+7.5480 	DATA 	Keypress: d
+7.5656 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfs\n=======================\nmultiple lines\n\n'
+7.5990 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsd\n=======================\nmultiple lines\n\n'
+7.6014 	DATA 	Keypress: f
+7.6490 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdf\n=======================\nmultiple lines\n\n'
+7.7513 	DATA 	Keypress: return
+7.9027 	DATA 	Keypress: return
+8.0681 	DATA 	Keypress: s
+8.0980 	DATA 	Keypress: d
+8.1159 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdfs\n=======================\nmultiple lines\n\n'
+8.1314 	DATA 	Keypress: f
+8.1490 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdfsd\n=======================\nmultiple lines\n\n'
+8.1824 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdfsdf\n=======================\nmultiple lines\n\n'
+8.3014 	DATA 	Keypress: return
+8.4347 	DATA 	Keypress: return
+8.5846 	DATA 	Keypress: s
+8.6144 	DATA 	Keypress: d
+8.6324 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdfsdfs\n=======================\nmultiple lines\n\n'
+8.6489 	DATA 	Keypress: f
+8.6656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\n\n'
+8.6991 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\n'
+8.7681 	DATA 	Keypress: return
+8.8156 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\n\n'
+8.9023 	DATA 	Keypress: s
+8.9323 	DATA 	Keypress: d
+8.9491 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\ns\n'
+8.9823 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsd\n'
+8.9847 	DATA 	Keypress: f
+9.0323 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\n'
+9.0847 	DATA 	Keypress: return
+9.1323 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\n\n'
+9.2184 	DATA 	Keypress: s
+9.2501 	DATA 	Keypress: a
+9.2502 	DATA 	Keypress: d
+9.2656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\ns\n'
+9.2828 	DATA 	Keypress: return
+9.2990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\n'
+9.3161 	DATA 	Keypress: f
+9.3323 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\n\n'
+9.3656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nf\n'
+9.5181 	DATA 	Keypress: s
+9.5656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfs\n'
+9.5680 	DATA 	Keypress: d
+9.6156 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsd\n'
+9.6519 	DATA 	Keypress: f
+9.6990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdf\n'
+9.8186 	DATA 	Keypress: a
+9.8540 	DATA 	Keypress: s
+9.8656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfa\n'
+9.8837 	DATA 	Keypress: d
+9.8990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfas\n'
+9.9324 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasd\n'
+9.9349 	DATA 	Keypress: f
+9.9823 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdf\n'
+10.1188 	DATA 	Keypress: s
+10.1507 	DATA 	Keypress: a
+10.1508 	DATA 	Keypress: d
+10.1657 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfs\n'
+10.1847 	DATA 	Keypress: f
+10.1990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfsad\n'
+10.2186 	DATA 	Keypress: backspace
+10.2323 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfsadf\n'
+10.2657 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfsad\n'
+10.8324 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfsa\n'
+10.8823 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdfs\n'
+10.9157 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasdf\n'
+10.9490 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfasd\n'
+10.9682 	DATA 	Keypress: backspace
+11.0156 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfas\n'
+11.1683 	DATA 	Keypress: backspace
+11.2157 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdfa\n'
+11.2515 	DATA 	Keypress: backspace
+11.2990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsdf\n'
+11.3525 	DATA 	Keypress: backspace
+11.3990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfsd\n'
+11.4348 	DATA 	Keypress: backspace
+11.4823 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nfs\n'
+11.5519 	DATA 	Keypress: backspace
+11.5990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\nf\n'
+11.6357 	DATA 	Keypress: backspace
+11.6823 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\n\n'
+11.7516 	DATA 	Keypress: backspace
+11.7990 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsad\n'
+11.9348 	DATA 	Keypress: backspace
+11.9824 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\nsa\n'
+12.0180 	DATA 	Keypress: backspace
+12.0656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\ns\n'
+12.1180 	DATA 	Keypress: backspace
+12.1656 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\n\n'
+12.2015 	DATA 	Keypress: backspace
+12.2490 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsdf\n'
+12.3181 	DATA 	Keypress: backspace
+12.3657 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\nsd\n'
+12.4184 	DATA 	Keypress: backspace
+12.4657 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\ns\n'
+12.5018 	DATA 	Keypress: backspace
+12.5490 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\n\n'
+12.6014 	DATA 	Keypress: backspace
+12.6491 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\nf\n'
+12.7014 	DATA 	Keypress: backspace
+12.7491 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\n\n'
+12.7852 	DATA 	Keypress: backspace
+12.8323 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\n\n'
+12.8850 	DATA 	Keypress: backspace
+12.9324 	EXP 	text: text = '\n=======================\nsingle line\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\n**multiple lines**\n\n'
+13.6490 	EXP 	text: text = '\n=======================\n**single line**\nasdfjkldjlfsdsdfsdfsdfsdfsdfsd\n=======================\nmultiple lines\n\n'
+13.9349 	DATA 	Keypress: escape

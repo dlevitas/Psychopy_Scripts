@@ -1,0 +1,5 @@
+subject_ID,Exp_Type,Run,Threat_Predictability,Cumulative_Start_Time,Block,Block_Onset,Block_End,Safe_Block_Time,Threat_Block_Time,Num_Stressor_Presentations,Audio_Files,Threat_Cue_Onset_Times,Stressor_Onset_Times,Stressor_End_Times,Individual_Button_Presses,Escape_Times,Escape_Presses_Needed_List,Shock_Level,Cumulative_End_Time,Anxiety_Rating,Perceived_Control_Rating
+NA,NA,0,NA,NA,safe,0.00E+00,16,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,0,P,NA,threat,0.00E+00,40,NA,40,2,"['static.wav', 'buzzsaw.wav']","[5, 24]","[8, 27]",NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,0,NA,NA,safe,0.00E+00,14,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,0,U,NA,threat,0.00E+00,30,NA,30,1,['buzzer.wav'],NA,[19],NA,NA,NA,NA,NA,NA,NA,NA

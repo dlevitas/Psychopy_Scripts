@@ -1,0 +1,58 @@
+2.6398 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x0B5EC5A8>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.6398 	EXP 	window1: recordFrameIntervals = False
+2.8060 	EXP 	window1: recordFrameIntervals = True
+2.9913 	EXP 	window1: recordFrameIntervals = False
+3.0467 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+3.0507 	EXP 	Created what_am_i_typing = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='what_am_i_typing', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.0539 	EXP 	Created end_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='end_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.0559 	EXP 	intro_text: autoDraw = True
+3.8228 	DATA 	Keypress: return
+3.8248 	EXP 	Created sequence: random, trialTypes=1, nReps=3, seed=None
+3.8256 	EXP 	New trial (rep=0, index=0): None
+3.8333 	EXP 	window1: recordFrameIntervals = False
+3.8392 	EXP 	intro_text: autoDraw = False
+3.8392 	EXP 	what_am_i_typing: autoDraw = True
+3.8442 	EXP 	window1: recordFrameIntervals = False
+4.2425 	DATA 	Keypress: h
+4.3306 	DATA 	Keypress: j
+4.3955 	DATA 	Keypress: g
+4.4618 	DATA 	Keypress: j
+4.6620 	DATA 	Keypress: g
+5.0459 	DATA 	Keypress: return
+5.0493 	EXP 	New trial (rep=1, index=0): None
+5.0543 	EXP 	window1: recordFrameIntervals = False
+5.0559 	EXP 	what_am_i_typing: autoDraw = False
+5.0559 	EXP 	what_am_i_typing: autoDraw = True
+5.0608 	EXP 	window1: recordFrameIntervals = False
+5.5305 	DATA 	Keypress: h
+5.5781 	DATA 	Keypress: g
+5.6954 	DATA 	Keypress: k
+5.7129 	DATA 	Keypress: j
+5.7786 	DATA 	Keypress: h
+5.8453 	DATA 	Keypress: g
+6.0127 	DATA 	Keypress: j
+6.0291 	DATA 	Keypress: h
+6.2299 	DATA 	Keypress: j
+6.2463 	DATA 	Keypress: h
+6.3299 	DATA 	Keypress: g
+6.6971 	DATA 	Keypress: return
+6.6975 	EXP 	New trial (rep=2, index=0): None
+6.7023 	EXP 	window1: recordFrameIntervals = False
+6.7060 	EXP 	what_am_i_typing: autoDraw = False
+6.7060 	EXP 	what_am_i_typing: autoDraw = True
+6.7114 	EXP 	window1: recordFrameIntervals = False
+7.2613 	DATA 	Keypress: f
+7.3945 	DATA 	Keypress: g
+7.4780 	DATA 	Keypress: f
+7.6285 	DATA 	Keypress: h
+7.6447 	DATA 	Keypress: j
+7.6949 	DATA 	Keypress: g
+7.7625 	DATA 	Keypress: j
+7.8124 	DATA 	Keypress: f
+7.8969 	DATA 	Keypress: h
+7.9298 	DATA 	Keypress: g
+8.3465 	DATA 	Keypress: return
+8.3726 	EXP 	what_am_i_typing: autoDraw = False
+8.3726 	EXP 	end_text: text = 'Your responses:\nhjgjg\n\nhgkjhgjhjhg\n\nfgfhjgjfhg'
+8.3726 	EXP 	end_text: autoDraw = True
+9.6896 	DATA 	Keypress: return

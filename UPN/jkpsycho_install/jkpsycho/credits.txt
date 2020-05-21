@@ -1,0 +1,10 @@
+
+icons:
+    scanner red button: http://www.aha-soft.com
+    scanner connect (I overlayed it on red button): http://neiio.deviantart.com/
+    TableLooper:  http://icocentre.com/ 
+    log cabin: http://icons8.com
+    log icon: http://www.iconarchive.com/show/crystal-clear-icons-by-everaldo/App-edit-icon.html
+    stop sign: http://www.aha-soft.com
+    readme: https://openclipart.org/detail/211874/matt-icons_text-x-readme-by-sixsixfive-211874
+    TextResponse: http://icons8.com/ Visual Pharm https://www.iconfinder.com/icons/174709/rename_icon#size=48

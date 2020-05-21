@@ -1,0 +1,29 @@
+Run,Block,Safe_Block_Time,Threat_Block_Time,Num_Stressor_Presentations,Stressor_Onset_Times
+practice,safe,16,N/A,N/A,N/A
+practice,threat,N/A,40,2,"[8, 27]"
+practice,safe,14,N/A,N/A,N/A
+practice,threat,N/A,30,1,[19]
+1,threat,N/A,91,2,"[5, 82]"
+1,safe,13,N/A,N/A,N/A
+1,threat,N/A,100,3,"[11, 25, 48]"
+1,safe,17,N/A,N/A,N/A
+1,threat,N/A,79,1,[63]
+1,safe,15,N/A,N/A,N/A
+2,safe,19,N/A,N/A,N/A
+2,threat,N/A,77,2,"[15, 49]"
+2,safe,12,N/A,N/A,N/A
+2,threat,N/A,112,0,[]
+2,safe,14,N/A,N/A,N/A
+2,threat,N/A,81,2,"[51, 63]"
+3,safe,20,N/A,N/A,N/A
+3,threat,N/A,87,1,[80]
+3,safe,10,N/A,N/A,N/A
+3,threat,N/A,63,1,[42]
+3,safe,15,N/A,N/A,N/A
+3,threat,N/A,120,2,"[18, 104]"
+4,safe,18,N/A,N/A,N/A
+4,threat,N/A,77,2,"[20, 52]"
+4,safe,16,N/A,N/A,N/A
+4,threat,N/A,88,0,[]
+4,safe,11,N/A,N/A,N/A
+4,threat,N/A,105,3,"[10, 29, 96]"

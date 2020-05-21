@@ -1,0 +1,6 @@
+trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,start_on_enter.keys,start_on_enter.rt,submit_on_enter.keys,submit_on_enter.rt,finish_on_enter.keys,finish_on_enter.rt,date,frameRate,expName,session,participant,
+,,,,return,0.768855028873,,,,,2015_Jul_09_1114,59.2966215399,ResponseText,001,,
+0,0,0,0,,,return,1.21271331445,,,2015_Jul_09_1114,59.2966215399,ResponseText,001,,
+1,0,1,0,,,return,1.6429092293,,,2015_Jul_09_1114,59.2966215399,ResponseText,001,,
+2,0,2,0,,,return,1.64437379703,,,2015_Jul_09_1114,59.2966215399,ResponseText,001,,
+,,,,,,,,return,1.33290271588,2015_Jul_09_1114,59.2966215399,ResponseText,001,,

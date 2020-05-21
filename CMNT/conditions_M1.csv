@@ -1,0 +1,97 @@
+order,index,questionType,questionVoice,waitText,speaker,prompt,question,answerA,answerB,corrAnswer
+45,1,Mental,third,Waiting for Computer_,Computer,Sam knows his sister is lying.,Which will he pick?,Tell on her,Believe her,Tell on her
+59,2,Mental,first,Waiting for Computer_,Michael,I am excited to see my friend.,Which will I pick?,Hug friend,Ignore friend,Hug friend
+106,3,Mental,third,Waiting for Computer_,Computer,Sam wants to borrow a book. ,Which will he pick?,Mall,Library,Library
+61,4,Mental,third,Waiting for Computer_,Computer,Sam likes homemade meals.,Which will he pick?,Buy lunch,Pack lunch,Pack lunch
+38,7,Mental,third,Waiting for Computer_,Computer,Sam does not think the teacher heard him.,Which will he pick?,Repeat question,Wait for answer,Repeat question
+35,9,Mental,third,Waiting for Computer_,Computer,Sam feels confused during math class.,Which will he pick?,Math tutor,Math club,Math tutor
+79,10,Mental,third,Waiting for Computer_,Computer,Sam thinks his friend is mad at him.,Which will he pick?,Annoy friend,Apologize,Apologize
+74,11,Mental,third,Waiting for Computer_,Computer,Sam wants to stay dry at the lake.,Which will he pick?,Picnic,Swimming,Picnic
+98,12,Mental,first,Waiting for Computer_,Michael,I want a healthy snack.,Which will I pick?,Cookies,Carrots,Carrots
+15,13,Mental,first,Waiting for Computer_,Michael,I really like to laugh. ,Which will I pick?,Funny movie,Scary movie,Funny movie
+90,15,Mental,third,Waiting for Computer_,Computer,Sam does not know what time it is.,Which will he pick?,Clock,Calculator,Clock
+109,16,Mental,first,Waiting for Computer_,Michael,I want to do some exercise.,Which will I pick?,Soccer,Movie,Soccer
+83,18,Mental,first,Waiting for Computer_,Michael,I think flying is fun.,Which will I pick?,Train,Plane,Plane
+36,19,Mental,first,Waiting for Computer_,Michael,I am angry at my mom.,Which will I pick?,Smile at mom,Glare at mom,Glare at mom
+50,20,Mental,third,Waiting for Computer_,Computer,Sam is afraid of heights.,Which will he pick?,Climb tree,Rake leaves,Rake leaves
+71,21,Mental,third,Waiting for Computer_,Computer,Sam is interested in the ocean.,Which will he pick?,Aquarium,Zoo,Aquarium
+44,22,Mental,third,Waiting for Computer_,Computer,Sam thinks there is candy in the jar.,Which will he pick?,Jar,Drawer,Jar
+105,23,Mental,first,Waiting for Computer_,Michael,I think my friend is busy.,Which will I pick?,Ask to hang out,Leave alone,Leave alone
+102,24,Mental,third,Waiting for Computer_,Computer,Sam does not like fruit.,Which will he pick?,Soda,Juice,Soda
+17,28,Mental,first,Waiting for Computer_,Michael,I think TV shows should be silly.,Which will I pick?,Drama,Comedy ,Comedy 
+107,29,Mental,third,Waiting for Computer_,Computer,Sam knows his brother is hiding in the closet.,Which will he pick?,Keep looking,Open closet,Open closet
+87,30,Mental,first,Waiting for Computer_,Michael,I want to get a good grade.,Which will I pick?,Watch TV,Study for test,Study for test
+84,31,Mental,third,Waiting for Computer_,Computer,Sam wants to have fun with his friends.,Which will he pick?,Party,Nature walk,Party
+16,32,Mental,third,Waiting for Computer_,Computer,Sam wants to listen to loud music.,Which will he pick?,Classical,Rock,Rock
+51,33,Mental,first,Waiting for Computer_,Michael,I like to play with animals.,Which will I pick?,Goldfish,Dog,Dog
+92,35,Mental,first,Waiting for Computer_,Michael,I think skiing is dangerous.,Which will I pick?,Mountain slope,Hot cocoa,Hot cocoa
+39,36,Mental,first,Waiting for Computer_,Michael,I know that school is closed today.,Which will I pick?,Play outside,Wait at bus stop,Play outside
+60,37,Mental,first,Waiting for Computer_,Michael,I want to eat healthy.,Which will I pick?,Fish,Pizza,Fish
+101,38,Mental,third,Waiting for Computer_,Computer,Sam likes to get exercise.,Which will he pick?,Card game,Kickball,Kickball
+91,39,Mental,first,Waiting for Computer_,Michael,I do not think I did well on the test.,Which will I pick?,Ask for help,Celebrate,Ask for help
+29,42,Mental,first,Waiting for Computer_,Michael,I do not know where I'm going.,Which will I pick?,Walk faster,Ask for directions,Ask for directions
+86,43,Mental,third,Waiting for Computer_,Computer,Sam knows the answer to the question.,Which will he pick?,Say answer,Look confused,Say answer
+120,44,Mental,third,Waiting for Computer_,Computer,Sam knows it will rain later.,Which will he pick?,Umbrella,Sandals,Umbrella
+110,45,Mental,third,Waiting for Computer_,Computer,Sam thinks he is funny.,Which will he pick?,Tell a joke,Sing a song,Tell a joke
+95,46,Mental,third,Waiting for Computer_,Computer,Sam likes to run.,Which will he pick?,Soccer,Dodgeball,Soccer
+54,47,Mental,first,Waiting for Computer_,Michael,I am scared of roller coasters.,Which will I pick?,Theme park,Water park,Water park
+119,48,Mental,third,Waiting for Computer_,Computer,Sam likes to read.,Which will he pick?,Short story,Long novel,Long novel
+20,49,Mental,third,Waiting for Computer_,Computer,Sam wonders if the weather is nice.,Which will he pick?,Window,Basement,Window
+6,50,Mental,first,Waiting for Computer_,Michael,I do not want to go to bed early.,Which will I pick?,7pm bedtime,11pm bedtime,11pm bedtime
+24,51,Mental,first,Waiting for Computer_,Michael,I know my bike was stolen.,Which will I pick?,Check garage,Call police,Call police
+58,52,Mental,first,Waiting for Computer_,Michael,I care about the environment.,Which will I pick?,Recycling,Trash,Recycling
+37,53,Mental,first,Waiting for Computer_,Michael,I think it will be warm today.,Which will I pick?,Long sleeves,T-shirt,T-shirt
+113,54,Mental,first,Waiting for Computer_,Michael,I know the house is empty. ,Which will I pick?,Knock on door,Leave a note,Leave a note
+52,55,Mental,third,Waiting for Computer_,Computer,Sam wants to watch a true story.,Which will he pick?,History Channel,Cartoon Network,History Channel
+27,56,Mental,third,Waiting for Computer_,Computer,Sam worries about being in front of people.,Which will he pick?,Give a speech,Read a book,Read a book
+96,57,Mental,first,Waiting for Computer_,Michael,I want to save money.,Which will I pick?,Video game,Yo-yo,Yo-yo
+100,58,Mental,first,Waiting for Computer_,Michael,"I like calm, relaxing rides.",Which will I pick?,Ferris wheel,Roller coaster,Ferris wheel
+57,59,Mental,first,Waiting for Computer_,Michael,I am bored.,Which will I pick?,New game,Chores,New game
+56,61,Physical,first,Waiting for Computer_,Michael,My bedroom gets cold at night.,Which of these match?,Close window,Open window,Close window
+22,62,Physical,first,Waiting for Computer_,Michael,My headphones are broken.,Which of these match?,Listen to music,Draw a picture,Draw a picture
+53,63,Physical,first,Waiting for Computer_,Michael,I am in the living room. ,Which of these match?,Watch TV,Cook dinner,Watch TV
+65,64,Physical,first,Waiting for Computer_,Michael,I am going to a birthday party.,Which of these match?,Party hat,Reading glasses,Party hat
+99,65,Physical,third,Waiting for Computer_,Computer,Sam's yard does not have any trees.,Which of these match?,Treehouse,Volleyball net,Volleyball net
+1,66,Physical,first,Waiting for Computer_,Michael,I can kick the ball far.,Which of these match?,Basketball,Soccer,Soccer
+62,67,Physical,third,Waiting for Computer_,Computer,Sam is going to a water park.,Which of these match?,Athletic shorts,Bathing suit,Bathing suit
+81,69,Physical,first,Waiting for Computer_,Michael,I can't see things far away.,Which of these match?,Blindfold,Glasses,Glasses
+19,70,Physical,third,Waiting for Computer_,Computer,Sam's paint palette is dirty.,Which of these match?,Paint picture,Clean palette,Clean palette
+115,71,Physical,third,Waiting for Computer_,Computer,Sam is in a research lab.,Which of these match?,Pay attention,Jump up and down,Pay attention
+89,72,Physical,first,Waiting for Computer_,Michael,My dog is sick.,Which of these match?,Veterinarian,Doctor,Veterinarian
+76,73,Physical,first,Waiting for Computer_,Michael,I am drawing something blue.,Which of these match?,The ocean,The mountains,The ocean
+30,74,Physical,third,Waiting for Computer_,Computer,Sam is going skiing.,Which of these match?,Snow boots,Tennis shoes,Snow boots
+40,75,Physical,third,Waiting for Computer_,Computer,Sam is in the kitchen.,Which of these match?,Go to sleep,Get a snack,Get a snack
+55,77,Physical,third,Waiting for Computer_,Computer,Sam shares a room with three siblings.,Which of these match?,Bunk beds,Single beds,Bunk beds
+78,78,Physical,first,Waiting for Computer_,Michael,I came in third place in the contest.,Which of these match?,Bronze medal,Gold medal,Bronze medal
+75,79,Physical,third,Waiting for Computer_,Computer,Sam's computer screen is very dark. ,Which of these match?,Brightness,Volume,Brightness
+73,81,Physical,third,Waiting for Computer_,Computer,Sam stayed home sick from school today.,Which of these match?,Math test,Doctor's office,Doctor's office
+28,83,Physical,first,Waiting for Computer_,Michael,I live very close to the pool.,Which of these match?,Swim team,Soccer team,Swim team
+9,84,Physical,third,Waiting for Computer_,Computer,Sam is playing with three friends.,Which of these match?,Chess,Card game,Card game
+13,85,Physical,first,Waiting for Computer_,Michael,I can speak Spanish.,Which of these match?,Mexico,Japan,Mexico
+21,86,Physical,first,Waiting for Computer_,Michael,I sprained my ankle.,Which of these match?,Go for a hike,Watch a movie,Watch a movie
+11,87,Physical,first,Waiting for Computer_,Michael,I am not on vacation.,Which of these match?,Suitcase,Dresser,Dresser
+93,88,Physical,first,Waiting for Computer_,Michael,I have to carry a lot of books.,Which of these match?,Plastic bag,Backpack,Backpack
+80,89,Physical,first,Waiting for Computer_,Michael,I just got a new sleeping bag.,Which of these match?,Go swimming,Go camping,Go camping
+7,91,Physical,third,Waiting for Computer_,Computer,Sam is running late for his piano lesson.,Which of these match?,Shortcut,Long way,Shortcut
+34,94,Physical,first,Waiting for Computer_,Michael,I have shin guards.,Which of these match?,Fishing,Soccer,Soccer
+117,95,Physical,first,Waiting for Computer_,Michael,I do not have any paper.,Which of these match?,Colored pencils,Sidewalk chalk,Sidewalk chalk
+48,96,Physical,first,Waiting for Computer_,Michael,I have ten empty glass bottles.,Which of these match?,Trash,Recycling,Recycling
+42,97,Physical,third,Waiting for Computer_,Computer,Sam has a lot of clothes.,Which of these match?,Big closet,Small closet,Big closet
+66,98,Physical,first,Waiting for Computer_,Michael,I am going on a hike.,Which of these match?,Trail mix,Soup,Trail mix
+10,99,Physical,third,Waiting for Computer_,Computer,Sam has a kite.,Which of these match?,Windy day,Rainy day,Windy day
+49,100,Physical,first,Waiting for Computer_,Michael,I have a sore throat.,Which of these match?,Tissues,Cough drop,Cough drop
+23,101,Physical,third,Waiting for Computer_,Computer,Sam can play the piano and violin. ,Which of these match?,Art,Music,Music
+31,102,Physical,third,Waiting for Computer_,Computer,Sam does not own a helmet.,Which of these match?,Bike ride,Jogging,Jogging
+68,104,Physical,first,Waiting for Computer_,Michael,I invited a lot of friends to the party.,Which of these match?,Laser tag,Sleepover,Laser tag
+32,105,Physical,third,Waiting for Computer_,Computer,Sam is not at the pool. ,Which of these match?,Diving board,Swing set,Swing set
+70,106,Physical,third,Waiting for Computer_,Computer,Sam is wearing a costume.,Which of these match?,School play,Spelling bee,School play
+63,107,Physical,first,Waiting for Computer_,Michael,I only ride my bike in the street.,Which of these match?,Mountain bike,Road bike,Road bike
+64,109,Physical,third,Waiting for Computer_,Computer,Sam can do the splits.,Which of these match?,Gymnastics,Singing,Gymnastics
+14,110,Physical,third,Waiting for Computer_,Computer,Sam is inside of a tent.,Which of these match?,Camping,Sports,Camping
+5,112,Physical,third,Waiting for Computer_,Computer,Sam is playing with his little brother.,Which of these match?,Homework,Nerf gun,Nerf gun
+111,113,Physical,first,Waiting for Computer_,Michael,I have big feet. ,Which of these match?,Big shoes,Small shoes,Big shoes
+108,114,Physical,third,Waiting for Computer_,Computer,Sam plays Minecraft.,Which of these match?,Computer,Mining pick,Computer
+18,116,Physical,first,Waiting for Computer_,Michael,I am going to the beach later today.,Which of these match?,Sunscreen,Snowboard,Sunscreen
+41,118,Physical,third,Waiting for Computer_,Computer,Sam is very tall for his age.,Which of these match?,Gymnastics,Basketball,Basketball
+88,119,Physical,third,Waiting for Computer_,Computer,Sam lives far away from school.,Which of these match?,Bus,Bike,Bus
+116,120,Physical,third,Waiting for Computer_,Computer,Sam is wearing socks today.,Which of these match?,Sandals,Shoes,Shoes

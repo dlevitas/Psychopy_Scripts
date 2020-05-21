@@ -1,0 +1,28 @@
+2.9697 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x0B8A14E0>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.9697 	EXP 	window1: recordFrameIntervals = False
+3.1358 	EXP 	window1: recordFrameIntervals = True
+3.3215 	EXP 	window1: recordFrameIntervals = False
+3.3659 	EXP 	Created what_am_i_typing = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='what_am_i_typing', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.3690 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+3.3763 	EXP 	window1: recordFrameIntervals = False
+3.3857 	EXP 	what_am_i_typing: autoDraw = True
+3.3892 	EXP 	window1: recordFrameIntervals = False
+4.5224 	DATA 	Keypress: t
+4.6061 	DATA 	Keypress: h
+4.6394 	DATA 	Keypress: i
+4.7065 	DATA 	Keypress: s
+4.7896 	DATA 	Keypress: space
+4.9565 	DATA 	Keypress: i
+5.0565 	DATA 	Keypress: s
+5.1236 	DATA 	Keypress: space
+5.2397 	DATA 	Keypress: a
+5.2901 	DATA 	Keypress: space
+5.4397 	DATA 	Keypress: t
+5.5569 	DATA 	Keypress: e
+5.7574 	DATA 	Keypress: s
+5.8072 	DATA 	Keypress: t
+5.9235 	DATA 	Keypress: return
+5.9358 	EXP 	what_am_i_typing: autoDraw = False
+5.9358 	EXP 	text: text = 'Your responses = this is a test'
+5.9358 	EXP 	text: autoDraw = True
+7.0527 	DATA 	Keypress: return
